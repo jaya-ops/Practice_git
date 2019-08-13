@@ -1,0 +1,16 @@
+This is my second git practice
+Apple
+Ball
+cat
+dog
+egg
+fish
+ice
+grapes
+hut
+potato
+strawberry
+pineapple
+water
+milk
+salt
